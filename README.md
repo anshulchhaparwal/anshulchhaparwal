@@ -1,5 +1,4 @@
-[![temp-Image8y-UOz-K.avif](https://i.postimg.cc/nhv9CWRR/temp-Image8y-UOz-K.avif)](https://postimg.cc/DSwwNxKL)
-<h1 align="center">Hi 👋, I'm Anshul Chhaparwal</h1>
+[![temp-Image-NYYs-H8.avif](https://i.postimg.cc/2ycPYmB1/temp-Image-NYYs-H8.avif)](https://postimg.cc/LgPykcDS)
 <h3 align="center">A passionate Student Pursuing Big Data Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0efb551692c8a7613883f4c6fecd09359d30516a7c0dc115388cadad7bdc475a/68747470733a2f2f63686f6f6c732e696e2f77702d636f6e74656e742f75706c6f6164732f646174612d736369656e63652d322d312e676966")
 
